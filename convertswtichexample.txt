@@ -1,0 +1,245 @@
+if (item.outbreakState == "AB")
+{
+	<div class="rounded text-center col-md-3">Alberta, Canada</div>
+}
+else if (item.outbreakState == "BC")
+{
+	<div class="rounded text-center col-md-3">British Columbia, Canada</div>
+}
+else if (item.outbreakState == "MB")
+{
+	<div class="rounded text-center col-md-3">Manitoba, Canada</div>
+}
+else if (item.outbreakState == "NB")
+{
+	<div class="rounded text-center col-md-3">New Brunswick, Canada</div>
+}
+else if (item.outbreakState == "NL")
+{
+	<div class="rounded text-center col-md-3">Newfoundland and Labrador, Canada</div>
+}
+else if (item.outbreakState == "NS")
+{
+	<div class="rounded text-center col-md-3">Nova Scotia, Canada</div>
+}
+else if (item.outbreakState == "ON")
+{
+	<div class="rounded text-center col-md-3">Ontario, Canada</div>
+}
+else if (item.outbreakState == "QC")
+{
+	<div class="rounded text-center col-md-3">Quebec, Canada</div>
+}
+else if (item.outbreakState == "PE")
+{
+	<div class="rounded text-center col-md-3">Prince Edward Island, Canada</div>
+}
+else if (item.outbreakState == "SK")
+{
+	<div class="rounded text-center col-md-3">Sakastchewan, Canada</div>
+}
+else if (item.outbreakState == "AL")
+{
+	<div class="rounded text-center col-md-3">Alabama, United States</div>
+}
+else if (item.outbreakState == "AK")
+{
+	<div class="rounded text-center col-md-3">Alaska, United States</div>
+}
+else if (item.outbreakState == "AZ")
+{
+	<div class="rounded text-center col-md-3">Arizona, United States</div>
+}
+else if (item.outbreakState == "AR")
+{
+	<div class="rounded text-center col-md-3">Arkansas, United States</div>
+}
+else if (item.outbreakState == "CA")
+{
+	<div class="rounded text-center col-md-3">California, United States</div>
+}
+else if (item.outbreakState == "CO")
+{
+	<div class="rounded text-center col-md-3">Colorado, United States</div>
+}
+else if (item.outbreakState == "CT")
+{
+	<div class="rounded text-center col-md-3">Connecticut, United States</div>
+}
+else if (item.outbreakState == "DE")
+{
+	<div class="rounded text-center col-md-3">Delaware, United States</div>
+}
+else if (item.outbreakState == "FL")
+{
+	<div class="rounded text-center col-md-3">Florida, United States</div>
+}
+else if (item.outbreakState == "GA")
+{
+	<div class="rounded text-center col-md-3">Connecticut, United States</div>
+}
+else if (item.outbreakState == "HI")
+{
+	<div class="rounded text-center col-md-3">Hawaii, United States</div>
+}
+else if (item.outbreakState == "ID")
+{
+	<div class="rounded text-center col-md-3">Idaho, United States</div>
+}
+else if (item.outbreakState == "IL")
+{
+	<div class="rounded text-center col-md-3">Illinois, United States</div>
+}
+else if (item.outbreakState == "IN")
+{
+	<div class="rounded text-center col-md-3">Indiana, United States</div>
+}
+else if (item.outbreakState == "IA")
+{
+	<div class="rounded text-center col-md-3">Iowa, United States</div>
+}
+else if (item.outbreakState == "KS")
+{
+	<div class="rounded text-center col-md-3">Kansas, United States</div>
+}
+else if (item.outbreakState == "KY")
+{
+	<div class="rounded text-center col-md-3">Kentucky, United States</div>
+}
+else if (item.outbreakState == "LA")
+{
+	<div class="rounded text-center col-md-3">Louisiana, United States</div>
+}
+else if (item.outbreakState == "ME")
+{
+	<div class="rounded text-center col-md-3">Maine, United States</div>
+}
+else if (item.outbreakState == "MD")
+{
+	<div class="rounded text-center col-md-3">Maryland, United States</div>
+}
+else if (item.outbreakState == "MA")
+{
+	<div class="rounded text-center col-md-3">Massachusetts, United States</div>
+}
+else if (item.outbreakState == "MI")
+{
+	<div class="rounded text-center col-md-3">Michigan, United States</div>
+}
+else if (item.outbreakState == "MN")
+{
+	<div class="text-center col-md-3">Minnesota, United States</div>
+}
+else if (item.outbreakState == "MS")
+{
+	<div class="rounded text-center col-md-3">Mississippi, United States</div>
+}
+else if (item.outbreakState == "MO")
+{
+	<div class="rounded text-center col-md-3">Missouri, United States</div>
+}
+else if (item.outbreakState == "MT")
+{
+	<div class="rounded text-center col-md-3">Montana, United States</div>
+}
+else if (item.outbreakState == "NE")
+{
+	<div class="rounded text-center col-md-3">Nebraska, United States</div>
+}
+else if (item.outbreakState == "NV")
+{
+	<div class="rounded text-center col-md-3">Nevada, United States</div>
+}
+else if (item.outbreakState == "NH")
+{
+	<div class="rounded text-center col-md-3">New Hampshire, United States</div>
+}
+else if (item.outbreakState == "NJ")
+{
+	<div class="rounded text-center col-md-3">New Jersey, United States</div>
+}
+else if (item.outbreakState == "NM")
+{
+	<div class="rounded text-center col-md-3">New Mexico, United States</div>
+}
+else if (item.outbreakState == "NY")
+{
+	<div class="rounded text-center col-md-3">New York, United States</div>
+}
+else if (item.outbreakState == "NC")
+{
+	<div class="rounded text-center col-md-3">North Carolina, United States</div>
+}
+else if (item.outbreakState == "ND")
+{
+	<div class="rounded text-center col-md-3">North Dakota, United States</div>
+}
+else if (item.outbreakState == "OH")
+{
+	<div class="rounded text-center col-md-3">Ohio, United States</div>
+}
+else if (item.outbreakState == "OK")
+{
+	<div class="rounded text-center col-md-3">Oklahoma, United States</div>
+}
+else if (item.outbreakState == "OR")
+{
+	<div class="rounded text-center col-md-3">Oregon, United States</div>
+}
+else if (item.outbreakState == "PA")
+{
+	<div class="rounded text-center col-md-3">Pennsylvania, United States</div>
+}
+else if (item.outbreakState == "RI")
+{
+	<div class="rounded text-center col-md-3">Rhode Island, United States</div>
+}
+else if (item.outbreakState == "SC")
+{
+	<div class="rounded text-center col-md-3">South Carolina, United States</div>
+}
+else if (item.outbreakState == "SD")
+{
+	<div class="rounded text-center col-md-3">South Dakota, United States</div>
+}
+else if (item.outbreakState == "TN")
+{
+	<div class="rounded text-center col-md-3">Tennessee, United States</div>
+}
+else if (item.outbreakState == "TX")
+{
+	<div class="rounded text-center col-md-3">Texas, United States</div>
+}
+else if (item.outbreakState == "UT")
+{
+	<div class="rounded text-center col-md-3">Utah, United States</div>
+}
+else if (item.outbreakState == "VT")
+{
+	<div class="rounded text-center col-md-3">Vermont, United States</div>
+}
+else if (item.outbreakState == "VA")
+{
+	<div class="rounded text-center col-md-3">Virginia, United States</div>
+}
+else if (item.outbreakState == "WA")
+{
+	<div class="rounded text-center col-md-3">Washington, United States</div>
+}
+else if (item.outbreakState == "WV")
+{
+	<div class="rounded text-center col-md-3">West Virginia, United States</div>
+}
+else if (item.outbreakState == "WI")
+{
+	<div class="rounded text-center col-md-3">Wisconsin, United States</div>
+}
+else if (item.outbreakState == "WY")
+{
+	<div class="rounded text-center col-md-3">Wyoming, United States</div>
+}
+else
+{
+	<div class="rounded text-center col-md-3">@item.outbreakCity @item.outbreakState</div>
+}
+

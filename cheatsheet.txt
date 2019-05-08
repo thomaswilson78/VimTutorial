@@ -1,0 +1,22 @@
+Replace the ifs with cases using RegEx
+:%s/.\{-}if.\{-}==/case/g
+
+Substitute the ) with :
+:%s/)/:/g
+
+Set up a recursive macro to remove angle brackets
+qdjddjdd@dq
+NOTE: this will go until the end of the file
+
+Replace <div ...> with return
+:%s/<div.\{-}>/return /g
+
+Replace the </div> with a ;
+:%s/</div>/;/g
+
+Use a recursive J to fix everything on one line
+qjJj@jq
+
+Change else to default
+
+sort the order
